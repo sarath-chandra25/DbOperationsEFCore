@@ -1,8 +1,0 @@
-# Ignore Visual Studio folders
-.vs/
-*.user
-*.suo
-
-# Ignore user-specific files
-*.userosscache
-*.sln.docstates
